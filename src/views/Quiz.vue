@@ -92,7 +92,7 @@
       </b-row>
     </b-container>
     <pre>
-    {{this.$data}}
+    <!-- {{this.$data}} -->
   </pre>
   </section>
 </template>

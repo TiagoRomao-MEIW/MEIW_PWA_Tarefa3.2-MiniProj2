@@ -9,17 +9,17 @@
           <b-card-group deck>
             <AdminOptionBox routeName="listUsers" iconName="users" title="Utilizadores"/>
             <AdminOptionBox routeName="listAnimals" iconName="dog"  title="Animais"/>
-            <AdminOptionBox routeName="listSponsors" iconName="hand-holding-usd"  title="Patrocinadores"/>
+
           </b-card-group>
           <b-card-group deck class="mt-3">
             <AdminOptionBox routeName="listQuizzes" iconName="file-alt"  title="Quizzes"/>
             <AdminOptionBox routeName="listQuestions" iconName="question-circle"  title="Questões"/>
+
+          </b-card-group>
+          <b-card-group deck class="mt-3">
+            <AdminOptionBox routeName="listSponsors" iconName="hand-holding-usd"  title="Patrocinadores"/>
             <AdminOptionBox routeName="listSpecialists" iconName="graduation-cap"  title="Especialistas"/>
           </b-card-group>
-<!--           <b-card-group deck class="mt-3">
-            <AdminOptionBox routeName="listQuizzes" iconName="file-alt"  title="Patrocinadores"/>
-            <AdminOptionBox routeName="listQuestions" iconName="question-circle"  title="Especialistas"/>
-          </b-card-group> -->
         </b-col>
         <b-col cols="4"></b-col>
       </b-row>
