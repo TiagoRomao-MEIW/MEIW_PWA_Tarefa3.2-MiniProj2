@@ -1,3 +1,13 @@
+# MEIW - PWA: Tarefa 3.2
+Miniprojeto - Desenvolvimento do front-end
+
+Aluno 75309 Tiago Romão
+
+#Baseado no Projeto Animalec
+**Desenvolvimento Avançado para a Web**
+Ricardo Queirós e Filipe Portela
+2020 FCA
+
 # Animalec
 An animals pedagogical app
 
