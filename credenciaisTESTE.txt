@@ -1,5 +1,2 @@
-tiagomlromao
-meiw_password
-
-tr_meiw
-meiw
+username: tiagomlromao
+password: meiw_password
